@@ -263,10 +263,10 @@ The system eliminates manual paperwork by automating attendance management, acad
 
 ### Team Members
 
+- Kanusu Manikanta Sai
 - Ailuri Rahul Reddy
 - Repalle Gnaneswar
 - Uppala Krishna Kushal
-- Kanusu Manikanta Sai
 
 ### Faculty Mentor
 
@@ -286,6 +286,5 @@ It motivates us to continue building better solutions.
 
 ### Made with ❤️ by Team MyAmrita++
 
-<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="250"/>
 
 </div>
